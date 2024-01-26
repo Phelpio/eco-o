@@ -1,4 +1,4 @@
-# eco-o
+# Eco-O
 This is repo for eco-o an oyster eco management system built with Arduino.
 
 # getting started
